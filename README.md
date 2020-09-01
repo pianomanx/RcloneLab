@@ -2,6 +2,8 @@
   <img height="70" src="https://raw.githubusercontent.com/Sparoney/RcloneLab/master/img/title_rclonelab.png">
 </p>
 
+# I personally haven't used this in months, and don't have any plans *at the moment* to update this. Please check the other project forks, I'm sure someone else has worked on this. If anyone knows of a good fork please make an Issue and let me know and I will link it here
+
 ###### Originally created by MinorMole, this is an updated fork since it was removed from GitHub and was *not* created by me.
 
 ## Introduction
